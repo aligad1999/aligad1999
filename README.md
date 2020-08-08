@@ -10,7 +10,7 @@
 
 * ⚡ Fun Facts: I ❤️ [ '📖' , '⚽' , '🎥', '🏍️' ]
 
-* 🏆 **Co-Founder at  [Aidk](https://www.aid-ak.com). **
+* 🏆 __Co-Founder at  [Aidk](https://www.aid-ak.com).__
 
 ## Aidk Features
 ### 
