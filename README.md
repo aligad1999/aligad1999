@@ -12,13 +12,6 @@
 
 * 🏆 __Co-Founder at  [Aidk](https://www.aid-ak.com).__
 
-## Aidk Features
-### 
-* Help Illiterates facing the problem of filling a form or reading something
-
-* Help those with Disability
-help those who faces disability in walking or writing.
-
 
 ## Skills:
 ![python](https://img.icons8.com/color/48/000000/python.png)
