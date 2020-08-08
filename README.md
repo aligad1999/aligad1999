@@ -1,6 +1,6 @@
 # HI, I'm ALI 👋
 
-##About Me:
+## About Me:
 ###
 * 🎓 I am a CS undergraduate at **Faculty of Computers and Artificial Intelligence Cairo University**.
 
