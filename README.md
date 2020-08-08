@@ -12,8 +12,8 @@
 
 * 🏆 **Co-Founder at  [Aidk](https://www.aid-ak.com). **
 
-### Aidk Features
-
+## Aidk Features
+### 
 * Help Illiterates facing the problem of filling a form or reading something
 
 * Help those with Disability
