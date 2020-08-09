@@ -30,15 +30,10 @@
 
 
 ### Find Me Around the Web 🕸️:
-* ![linked](https://icon-icons.com/icons2/679/PNG/32/linkedin_icon-icons.com_60955.png) [Linkedin](https://www.linkedin.com/in/ali-gad-6070a41a1/)
-
-* ![kaggle](https://icon-icons.com/icons2/2389/PNG/32/kaggle_logo_icon_145140.png) [Kaggle](https://www.kaggle.com/aligad)
-
-* ![Instgram](https://icon-icons.com/icons2/679/PNG/32/instagram_icon-icons.com_60957.png) [Instgram](https://www.instagram.com/ali_gad_1/?fbclid=IwAR2uwXoDo9eOsT2PW58Xbdm53gDvcyAfQbKg7bV_MGe3cwBVsq1BoCmrVTc)
-
-* ![ask](https://icon-icons.com/icons2/679/PNG/32/ask_icon-icons.com_60971.png) [Ask.fm](https://ask.fm/aligad986227?fbclid=IwAR02gzTW5ggaAPUDSNWXFgDGOQutbw4O5UwGwYNInnpZ5gz0gcNnEtaa4CM) 
-
-
+[![linkedin](https://icon-icons.com/icons2/679/PNG/32/linkedin_icon-icons.com_60955.png)](https://www.linkedin.com/in/ali-gad-6070a41a1/)
+[![kaggle](https://icon-icons.com/icons2/2389/PNG/32/kaggle_logo_icon_145140.png)](https://www.kaggle.com/aligad)
+[![Instgram](https://icon-icons.com/icons2/679/PNG/32/instagram_icon-icons.com_60957.png)](https://www.instagram.com/ali_gad_1/?fbclid=IwAR2uwXoDo9eOsT2PW58Xbdm53gDvcyAfQbKg7bV_MGe3cwBVsq1BoCmrVTc)
+[![ask](https://icon-icons.com/icons2/679/PNG/32/ask_icon-icons.com_60971.png)](https://ask.fm/aligad986227?fbclid=IwAR02gzTW5ggaAPUDSNWXFgDGOQutbw4O5UwGwYNInnpZ5gz0gcNnEtaa4CM) 
 
 ## MyQuote
 > __"Talk is cheap. Show me the code"__.
