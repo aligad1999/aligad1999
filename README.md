@@ -2,7 +2,7 @@
 
 ## About Me:
 ###
-* 🎓 I am a CS undergraduate Student at **Faculty of Computers and Artificial Intelligence Cairo University**.
+* 🎓 I am an undergraduate student of Computer Science at **Faculty of Computers and Artificial Intelligence Cairo University**.
 
 * ⭐️ Interested in __Data science__.
 
