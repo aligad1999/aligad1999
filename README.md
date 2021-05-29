@@ -12,6 +12,8 @@
 
 * 🏆 __Co-Founder at  [Aidk](https://play.google.com/store/apps/details?id=com.gizumken.aidka).__
 
+* ⭐️ __My Google Play account [GooglePlay](https://play.google.com/store/apps/developer?id=AM_TEAM).__
+
 
 ## Skills:
 ![python](https://img.icons8.com/color/48/000000/python.png)
