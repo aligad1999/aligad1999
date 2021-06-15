@@ -10,7 +10,7 @@
 
 * ⚡ Fun Facts: I ❤️ [ '📖' , '⚽' , '🎥', '🏍️' ]
 
-* 🏆 __Co-Founder at  [Aidk](https://play.google.com/store/apps/details?id=com.gizumken.aidka).__
+* 🏆 __Co-Founder at  [Aidk](https://github.com/aligad1999/Aidk).__
 
 * ⭐️ __My Google Play account [GooglePlay](https://play.google.com/store/apps/developer?id=AM_TEAM).__
 
@@ -39,5 +39,3 @@
 
 ## MyQuote
 > __"Talk is cheap. Show me the code"__.
-
-
