@@ -2,15 +2,13 @@
 
 ## About Me:
 ###
-* 🎓 I am an undergraduate student of Computer Science at **Faculty of Computers and Artificial Intelligence Cairo University**.
+* 🎓 Frsh graduate from **Faculty of Computers and Artificial Intelligence Cairo University**.
 
 * ⭐️ Interested in __Data science__.
 
-* 💕 I love learning new technologies
+* 💕 I love hackathons vibes and learning new technologies
 
 * ⚡ Fun Facts: I ❤️ [ '📖' , '⚽' , '🎥', '🏍️' ]
-
-* 🏆 __Co-Founder at  [Aidk](https://github.com/aligad1999/Aidk).__
 
 * ⭐️ __My Google Play account [GooglePlay](https://play.google.com/store/apps/developer?id=AM_TEAM).__
 
