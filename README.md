@@ -12,6 +12,8 @@
 
 * ⭐️ __My Google Play account [GooglePlay](https://play.google.com/store/apps/developer?id=AM_TEAM).__
 
+* ⭐️ __Podcaster [Anchor](https://anchor.fm/tech-away9).__
+
 
 ## Skills:
 ![python](https://img.icons8.com/color/48/000000/python.png)
