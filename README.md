@@ -15,19 +15,17 @@
 
 
 ## Skills:
-![python](https://img.icons8.com/color/48/000000/python.png)
-![c++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-![java](https://img.icons8.com/ios-filled/50/000000/java-coffee-cup-logo--v1.png)
-![xamarin](https://img.icons8.com/color/48/000000/xamarin.png)
-![HTML](https://img.icons8.com/color/48/000000/html-5.png)
-![CSS](https://img.icons8.com/color/48/000000/css3.png)
-
-![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png)
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![SQL](https://img.icons8.com/nolan/48/sql.png)
+![Jupyter](https://img.icons8.com/fluency/48/000000/jupyter.png)
+![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png)
+![Excel](https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png)
+![Git](https://img.icons8.com/color/48/000000/git.png)
 ![XD](https://img.icons8.com/color/48/000000/adobe-xd.png)
-![photoshop](https://img.icons8.com/fluent/48/000000/adobe-photoshop.png)
-![word](https://img.icons8.com/color/48/000000/office-365.png)
-![after](https://img.icons8.com/fluent/48/000000/adobe-after-effects.png)
-![git](https://img.icons8.com/color/48/000000/git.png)
+![Photoshop](https://img.icons8.com/fluent/48/000000/adobe-photoshop.png)
+![Word](https://img.icons8.com/color/48/000000/office-365.png)
+![AfterEffects](https://img.icons8.com/fluent/48/000000/adobe-after-effects.png)
+
 
 
 ### Find Me Around the Web 🕸️:
