@@ -7,7 +7,7 @@
 
 * 💕 I love hackathons vibes and learning new technologies
 
-* ⚡ Fun Facts: I ❤️ [ '📖' , '⚽' , '🎥', '🤖','🏍️', '⛺' ]
+* ⚡ Fun Facts: I ❤️ [ '💻','📖' , '⚽' , '🎥', '🤖','🏍️', '⛺' ]
 
 * ⭐️ __My Google Play account [GooglePlay](https://play.google.com/store/apps/developer?id=AM_TEAM).__
 
