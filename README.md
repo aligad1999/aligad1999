@@ -3,7 +3,7 @@
 ## About Me:
 ###
 
-* **Jr. Data Scientist** 📊
+* ** Data Scientist** 📊
 
 * 💕 I love hackathons vibes and learning new technologies
 
